@@ -15,12 +15,19 @@ This repository contains the complete analysis, code, and documentation for the 
 
 ## Directory Structure
 ```
-├── Project_1_Bank_Marketing.ipynb      # Jupyter Notebook for Bank Marketing Analysis
-├── Project_2_Concrete_Strength.ipynb   # Jupyter Notebook for Concrete Strength Analysis
-├── bank-additional-full.csv            # Dataset for Project 1
-├── Concrete_Data.csv                   # Dataset for Project 2
-├── requirements.txt                    # Python dependencies for reproducibility
-└── README.md                           # Project documentation (this file)
+data_mining_assignment_1/
+├── .venv/                                          # Python virtual environment (not committed)
+├── data/                                           # Raw datasets and documentation
+│   ├── bank-additional-full-README.txt             # Documentation for Bank Marketing dataset
+│   ├── bank-additional-full.csv                    # Dataset for Project 1
+│   ├── Concrete_Data_README.txt                    # Documentation for Concrete dataset
+│   └── Concrete_Data.csv                           # Dataset for Project 2
+├── notebooks/                                      # Jupyter Notebooks (executable analysis)
+│   ├── 1. Bank Marketing.ipynb                     # Project 1: Classification analysis
+│   └── 2. Concrete Compressive Strength.ipynb      # Project 2: Regression analysis
+├── .gitignore                                      # Git ignore rules
+├── README.md                                       # Project documentation (this file)
+└── requirements.txt                                # Python dependencies for reproducibility
 ```
 
 ## Prerequisites and Setup
