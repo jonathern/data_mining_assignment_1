@@ -8,6 +8,9 @@ Course: MSc Data Science & Analytics
 Institution: Uganda Christian University (UCU)
 Date: 7 November 2026
 
+## Repository Link
+[GitHub](https://github.com/jonathern/data_mining_assignment_1)
+
 ## Project Overview
 This repository contains the complete analysis, code, and documentation for the Data Mining project-based assessment. It comprises two distinct machine learning projects:
 1. **Project 1 (Classification):** Predicting term-deposit subscriptions for a Portuguese banking institution.
